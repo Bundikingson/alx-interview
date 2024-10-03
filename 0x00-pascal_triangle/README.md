@@ -1,4 +1,4 @@
-#alx-interviiew
+#alx-interviiew - 0x00. Pascal's Triangle 
 Resources
 
     What is Pascal’s triangle
